@@ -1,7 +1,6 @@
 # Mechatronics Challenge
-Challenge for Mechatronics Engineers
 
-#### Goal
+### Goal
 Design a prototype can output GPS coordinates and accelerometer data via serial USB.
 
 ## Instructions
