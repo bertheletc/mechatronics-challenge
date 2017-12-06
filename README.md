@@ -1,6 +1,6 @@
 # Mechatronics Challenge
 
-### Goal
+## Goal
 Design a prototype can output GPS coordinates and accelerometer data via serial USB.
 
 ## Instructions
@@ -19,5 +19,5 @@ Using a Particle Photon microcontroller [https://docs.particle.io/datasheets/pho
 ### Part 2: Mechanical
 Design simple box to house all components. No constraints on size.
 
-### Remarks
+## Remarks
 If you'd prefer to use other microcontroller, accelerometer or GPS unit, feel free to do so.
