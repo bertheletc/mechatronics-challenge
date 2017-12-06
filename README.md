@@ -1,2 +1,2 @@
-# mechatronics_challenge
+# Mechatronics Challenge
 Challenge for Mechatronics Engineer role
