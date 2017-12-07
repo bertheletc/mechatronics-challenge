@@ -20,4 +20,4 @@ Using a Particle Photon microcontroller [https://docs.particle.io/datasheets/pho
 Design simple box to house all components. No constraints on size.
 
 ## Remarks
-If you'd prefer to use other microcontroller, accelerometer or GPS unit, feel free to do so.
+If you prefer to use other microcontroller, accelerometer or GPS unit, feel free to do so.
