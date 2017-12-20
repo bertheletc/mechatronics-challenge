@@ -4,9 +4,12 @@
 Design a prototype can output GPS coordinates and accelerometer data via serial USB.
 
 ## Instructions
-1. Fork this repo
+1. Clone this repo to your computer and then push to your own Github account. Don't fork it.
+```sh
+$ git clone git@github.com:voyage/mechatronics-challenge.git
+```
 2. Put your deliverables for **Part 1** in `electrical` and `src` folders and **Part 2** in the `mechanical` folder.
-3. Once you've completed the challenge, please send an e-mail to alan@voyage.auto with the link to your forked Github repo.
+3. Once you've completed the challenge, please send an e-mail to alan@voyage.auto with the link to your Github repo containing the solution.
 
 ### Part 1: Electrical/Coding
 At Voyage, we are always trying to improve sensor data quality.  The objective of this challenge is to build a module that can output GPS coordinates and accelerometer data.  Assume clean 5V, 3A power source is available.     
